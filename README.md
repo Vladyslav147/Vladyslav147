@@ -4,7 +4,7 @@ Backend-разработчик. Специализируюсь на создан
 
 ### 🎓 Образование
 * **Запорожский электротехнический колледж**: Студент 3-го курса по специальности **РПЗ** (Разработка программного обеспечения).
-* **IT-школа «Logika»**: Завершаю 4-й год обучения. Прошел углубленный курс по **Python** и **Django**. 
+* **IT-школа «Logika»**: Завершаю 4-й год обучения. Прошел углубленный курс по **Python** и **Django**.
     * [Мой профиль в Logika](https://student.logikaschool.com.ua)
 
 ### 🛠 Стек технологий
@@ -15,44 +15,49 @@ Backend-разработчик. Специализируюсь на создан
 #### Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🚀 Портфолио
+### 📂 Проекты и подборки
 <table width="100%">
+  <tr>
+    <th colspan="2" align="left">🚀 Основной проект</th>
+  </tr>
   <tr>
     <td width="30%" align="center">
       <img src="https://img.shields.io/badge/Django_Project-2D333B?style=for-the-badge&logo=django&logoColor=61DAFB" alt="Project">
     </td>
     <td>
-      <b>Koscioł_Chwały</b> — основной проект, над которым я работаю. Реализация серверной логики на Django.
+      <b>Koscioł_Chwały</b> — реализация серверной логики на Django.
       <br>
       👉 <a href="https://github.com/Vladyslav147/Kosciol_Chwaly"><b>Открыть репозиторий</b></a>
     </td>
   </tr>
-</table>
-
-### 📫 Контакты
-[![Instagram](https://img.shields.io/badge/Instagram-2D333B?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/borohtavlad) 
-[![Telegram](https://img.shields.io/badge/Telegram-2D333B?style=for-the-badge&logo=Telegram&logoColor=2CA5E0)](https://t.me/Sttimson)
-[![Discord](https://img.shields.io/badge/Discord-2D333B?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/779313264938385408)
----
-### 📚 Мои тематические подборки
-<table>
+  <tr>
+    <th colspan="2" align="left">📚 Тематические списки GitHub</th>
+  </tr>
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/List-My_Projects-316192?style=for-the-badge&logo=github" alt="List">
     </td>
     <td>
-      <b><a href="https://github.com/stars/Vladyslav147/lists/my-projects">My_Projects</a></b> — здесь я собираю свои личные пет-проекты и наработки по Django и Python.
+      <b><a href="https://github.com/stars/Vladyslav147/lists/my-projects">My_Projects</a></b> — личные пет-проекты и наработки по Django.
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/List-Learning_Resources-2D333B?style=for-the-badge&logo=bookstack" alt="List">
+      <img src="https://img.shields.io/badge/List-Learning-2D333B?style=for-the-badge&logo=bookstack" alt="List">
     </td>
     <td>
-      <b><a href="https://github.com/stars/Vladyslav147/lists/learning">Learning</a></b> — полезные библиотеки и учебные репозитории, которые я использую для учебы в колледже и «Логике».
+      <b><a href="https://github.com/stars/Vladyslav147/lists/learning">Learning Resources</a></b> — полезные библиотеки для учебы в колледже и «Логике».
     </td>
   </tr>
 </table>
+
+### 📫 Контакты
+[![Instagram](https://img.shields.io/badge/Instagram-2D333B?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/borohtavlad)
+[![Telegram](https://img.shields.io/badge/Telegram-2D333B?style=for-the-badge&logo=Telegram&logoColor=2CA5E0)](https://t.me/Sttimson)
+[![Discord](https://img.shields.io/badge/Discord-2D333B?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/779313264938385408)
+
+---
+
 ### 📊 Статистика активности
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vladyslav147&show_icons=true&theme=tokyonight&hide_border=true&title_color=316192&icon_color=316192" />
