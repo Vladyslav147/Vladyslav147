@@ -22,5 +22,18 @@ Backend-разработчик из Украины, сейчас прожива�
 * **Telegram:** [Ваша ссылка]
 
 ---
+### 🚀 Портфолио
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Project-Koscioł_Chwały2-blueviolet?style=for-the-badge&logo=django" alt="Project">
+    </td>
+    <td>
+      <b>Основной Backend-проект</b>: Разработка серверной части на Django. Проект включает работу с базами данных PostgreSQL и сложную бизнес-логику.
+      <br>
+      👉 <a href="https://github.com/Vladyslav147/Koscioł_Chwały2"><b>Посмотреть код репозитория</b></a>
+    </td>
+  </tr>
+</table>
 
 ![Моя статистика GitHub](https://github-readme-stats.vercel.app/api?username=Vladyslav147&show_icons=true&theme=radical)
