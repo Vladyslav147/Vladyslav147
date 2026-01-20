@@ -42,7 +42,9 @@ Backend-разработчик. Специализируюсь на создан
     </td>
   </tr>
 </table>
-
+<br>
+<br>
+<br>
 
 ### 📫 Контакты
 [![Instagram](https://img.shields.io/badge/Instagram-2D333B?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/borohtavlad)
