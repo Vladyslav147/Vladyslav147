@@ -22,9 +22,9 @@ Backend-разработчик. Специализируюсь на создан
       <img src="https://img.shields.io/badge/Django_Project-2D333B?style=for-the-badge&logo=django&logoColor=61DAFB" alt="Project">
     </td>
     <td>
-      <b>Koscioł_Chwały2</b> — основной проект, над которым я работаю. Реализация серверной логики на Django.
+      <b>Koscioł_Chwały</b> — основной проект, над которым я работаю. Реализация серверной логики на Django.
       <br>
-      👉 <a href="https://github.com/Vladyslav147/Koscioł_Chwały2"><b>Открыть репозиторий</b></a>
+      👉 <a href="https://github.com/Vladyslav147/Kosciol_Chwaly"><b>Открыть репозиторий</b></a>
     </td>
   </tr>
 </table>
