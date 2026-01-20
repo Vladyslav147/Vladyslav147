@@ -34,7 +34,25 @@ Backend-разработчик. Специализируюсь на создан
 [![Telegram](https://img.shields.io/badge/Telegram-2D333B?style=for-the-badge&logo=Telegram&logoColor=2CA5E0)](https://t.me/Sttimson)
 [![Discord](https://img.shields.io/badge/Discord-2D333B?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/779313264938385408)
 ---
-
+### 📚 Мои тематические подборки
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/List-My_Projects-316192?style=for-the-badge&logo=github" alt="List">
+    </td>
+    <td>
+      <b><a href="https://github.com/stars/Vladyslav147/lists/my-projects">My_Projects</a></b> — здесь я собираю свои личные пет-проекты и наработки по Django и Python.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/List-Learning_Resources-2D333B?style=for-the-badge&logo=bookstack" alt="List">
+    </td>
+    <td>
+      <b><a href="https://github.com/stars/Vladyslav147/lists/learning">Learning</a></b> — полезные библиотеки и учебные репозитории, которые я использую для учебы в колледже и «Логике».
+    </td>
+  </tr>
+</table>
 ### 📊 Статистика активности
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vladyslav147&show_icons=true&theme=tokyonight&hide_border=true&title_color=316192&icon_color=316192" />
