@@ -3,6 +3,7 @@
 Backend-разработчик из Украины, сейчас проживаю в Польше. Я увлечен созданием надежной серверной части приложений и постоянно совершенствую свои навыки в программировании.
 
 ### 🎓 Обучение
+* **Запорожский электротехнический колледж**: Студент 3-го курса по специальности **РПЗ** (Разработка программного обеспечения).
 * **IT-школа «Logika»**: Завершаю 4-й год обучения. Прошел углубленный курс по **Python** и **Django**. 
     * [Мой профиль в Logika](https://student.logikaschool.com.ua)
 
@@ -14,14 +15,6 @@ Backend-разработчик из Украины, сейчас прожива�
 #### Базы данных и Инструменты
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### 🚀 Мои проекты
-* **Koscioł_Chwały2** — мой текущий проект на Django, над которым я активно работаю.
-
-### 📫 Как со мной связаться
-* **Instagram:** [Ваша ссылка]
-* **Telegram:** [Ваша ссылка]
-
----
 ### 🚀 Портфолио
 <table>
   <tr>
@@ -29,11 +22,17 @@ Backend-разработчик из Украины, сейчас прожива�
       <img src="https://img.shields.io/badge/Project-Koscioł_Chwały2-blueviolet?style=for-the-badge&logo=django" alt="Project">
     </td>
     <td>
-      <b>Основной Backend-проект</b>: Разработка серверной части на Django. Проект включает работу с базами данных PostgreSQL и сложную бизнес-логику.
+      <b>Koscioł_Chwaлы2</b> — мой текущий проект на Django, над которым я активно работаю.
       <br>
-      👉 <a href="https://github.com/Vladyslav147/Koscioł_Chwały2"><b>Посмотреть код репозитория</b></a>
+      👉 <a href="https://github.com/Vladyslav147/Koscioł_Chwały2"><b>Посмотреть код проекта</b></a>
     </td>
   </tr>
 </table>
+
+### 📫 Связаться со мной
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/твой_ник) 
+[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/твой_ник)
+
+---
 
 ![Моя статистика GitHub](https://github-readme-stats.vercel.app/api?username=Vladyslav147&show_icons=true&theme=radical)
