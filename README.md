@@ -22,7 +22,7 @@ Backend-разработчик. Специализируюсь на создан
       <img src="https://img.shields.io/badge/Django_Project-2D333B?style=for-the-badge&logo=django&logoColor=61DAFB" alt="Project">
     </td>
     <td>
-      <b>Koscioł_Chwały2</b> — основной проект, над которым я работаю. Реализация сложной логики на Django с использованием PostgreSQL.
+      <b>Koscioł_Chwały2</b> — основной проект, над которым я работаю. Реализация серверной логики на Django.
       <br>
       👉 <a href="https://github.com/Vladyslav147/Koscioł_Chwały2"><b>Открыть репозиторий</b></a>
     </td>
@@ -32,6 +32,7 @@ Backend-разработчик. Специализируюсь на создан
 ### 📫 Контакты
 [![Instagram](https://img.shields.io/badge/Instagram-2D333B?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/твой_ник) 
 [![Telegram](https://img.shields.io/badge/Telegram-2D333B?style=for-the-badge&logo=Telegram&logoColor=2CA5E0)](https://t.me/твой_ник)
+[![Discord](https://img.shields.io/badge/Discord-2D333B?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discordapp.com/users/твой_ID_или_ник)
 
 ---
 
