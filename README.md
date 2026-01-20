@@ -37,13 +37,8 @@ Backend-разработчик. Специализируюсь на создан
     <td align="center">
       <img src="https://img.shields.io/badge/List-My_Projects-316192?style=for-the-badge&logo=github" alt="List">
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/List-Learning-2D333B?style=for-the-badge&logo=bookstack" alt="List">
-    </td>
     <td>
-      <b><a href="https://github.com/stars/Vladyslav147/lists/learning">Learning Resources</a></b> — полезные библиотеки для учебы в колледже и «Логике».
+      <b><a href="https://github.com/stars/Vladyslav147/lists/my-projects">My_Projects</a></b> — личные пет-проекты и наработки по Django.
     </td>
   </tr>
 </table>
