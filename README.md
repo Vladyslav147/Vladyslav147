@@ -30,10 +30,9 @@ Backend-разработчик. Специализируюсь на создан
 </table>
 
 ### 📫 Контакты
-[![Instagram](https://img.shields.io/badge/Instagram-2D333B?style=for-the-badge&logo=Instagram&logoColor=E4405F)]([https://www.instagram.com/твой_ник](https://www.instagram.com/borohtavlad?igsh=czhsa2w5b3JnbXo1&utm_source=qr)) 
-[![Telegram](https://img.shields.io/badge/Telegram-2D333B?style=for-the-badge&logo=Telegram&logoColor=2CA5E0)](https://t.me/@Sttimson)
-[![Discord](https://img.shields.io/badge/Discord-2D333B?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discordapp.com/users/твой_ID_или_ник)
-
+[![Instagram](https://img.shields.io/badge/Instagram-2D333B?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/borohtavlad) 
+[![Telegram](https://img.shields.io/badge/Telegram-2D333B?style=for-the-badge&logo=Telegram&logoColor=2CA5E0)](https://t.me/Sttimson)
+[![Discord](https://img.shields.io/badge/Discord-2D333B?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/779313264938385408)
 ---
 
 ### 📊 Статистика активности
