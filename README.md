@@ -38,5 +38,4 @@ Backend-разработчик. Специализируюсь на создан
 ### 📊 Статистика активности
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vladyslav147&show_icons=true&theme=tokyonight&hide_border=true&title_color=316192&icon_color=316192" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vladyslav147&layout=compact&theme=tokyonight&hide_border=true&title_color=316192" />
 </p>
