@@ -1,9 +1,9 @@
 # Привіт! Я Владислав 👋
 
-Backend-розробник. Спеціалізуюся на створенні надійної серверної частини додатків, оптимізації високонавантажених систем та архітектурі баз даних. Постійно розвиваюся в екосистемі Python/Django.
+Backend-розробник. Спеціалізуюся на створенні надійної серверної частини додатків, оптимізації високонавантажених систем та архітектурі баз даних. Постоянно розвиваюся в екосистемі Python/Django.
 
 ### 🎓 Освіта
-* **Запорізький електротехнічний校 коледж**: Закінчив 3-й курс і переходжу на 4-й за спеціальністю **РПЗ** (Розробка програмного забезпечення).
+* **Запорізький електротехнічний коледж**: Закінчив 3-й курс і переходжу на 4-й за спеціальністю **РПЗ** (Розробка програмного забезпечення).
 * **IT-школа «Logika»**: Успішно завершив повний курс навчання та отримав офіційний сертифікат (пройдено 120 уроків / 240 академічних годин). Поглиблений курс із **Python** та **Django**.
     * [Мій профіль у Logika](https://student.logikaschool.com.ua)
 
@@ -12,8 +12,8 @@ Backend-розробник. Спеціалізуюся на створенні �
 #### Backend & Async Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-#### Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+#### Databases, Tools & Monitoring
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📂 Проєкти та добірки
 
@@ -26,9 +26,9 @@ Backend-розробник. Спеціалізуюся на створенні �
       <img src="https://img.shields.io/badge/ManaStack-🔥_Main-092E20?style=for-the-badge&logo=django" alt="ManaStack">
     </td>
     <td>
-      <b>ManaStack</b> — платформа для обміну конфігураціями, гайдами та сетапами. 
+      <b>ManaStack</b> — геймерська платформа для обміну конфігураціями, гайдами та сетапами. 
       <br>
-      <i>Стек: Django REST Framework, PostgreSQL, Redis (кешування), Celery (фонові завдання), Docker, i так далi </i>
+      <i>Стек: Django REST Framework, PostgreSQL, Redis (кешування), Celery (фонові завдання), Docker, Sentry (трекінг помилок та моніторинг).</i>
       <br>
       👉 <b>Репозиторій в активній розробці</b>
     </td>
