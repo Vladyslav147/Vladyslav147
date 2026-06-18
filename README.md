@@ -1,6 +1,6 @@
 # Привіт! Я Владислав 👋
 
-Backend-розробник. Спеціалізуюся на створенні надійної серверної частини додатків та архітектурі баз даних. Постійно розвиваюся в екосистемі Python/Django.
+Backend-розробник. Спеціалізаюся на створенні надійної серверної частини додатків, оптимізації високонавантажених систем та архітектурі баз даних. Постійно розвиваюся в екосистемі Python/Django.
 
 ### 🎓 Освіта
 * **Запорізький електротехнічний коледж**: Закінчив 3-й курс і переходжу на 4-й за спеціальністю **РПЗ** (Розробка програмного забезпечення).
@@ -16,32 +16,51 @@ Backend-розробник. Спеціалізуюся на створенні �
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📂 Проєкти та добірки
+
 <table width="100%">
   <tr>
-    <th colspan="2" align="left">🚀 Основний проєкт</th>
+    <th colspan="2" align="left">🚀 Флагманський проєкт</th>
   </tr>
   <tr>
     <td width="30%" align="center">
-      <img src="https://img.shields.io/badge/Django_Project-2D333B?style=for-the-badge&logo=django&logoColor=61DAFB" alt="Project">
+      <img src="https://img.shields.io/badge/ManaStack-🔥_Main-092E20?style=for-the-badge&logo=django" alt="ManaStack">
     </td>
     <td>
-      <b>SetupShare</b> — реалізація серверної логіки, API та архітектури на Django.
+      <b>ManaStack</b> — геймерська платформа для обміну конфігураціями, гайдами та сетапами. 
+      <br>
+      <i>Стек: Django REST Framework, PostgreSQL, Redis (кешування), Celery (фонові завдання), Docker.</i>
+      <br>
+      👉 <b>Репозиторій в активній розробці</b>
+    </td>
+  </tr>
+  
+  <tr>
+    <th colspan="2" align="left">💻 Інші проєкти</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/SetupShare-Project-316192?style=for-the-badge&logo=github" alt="SetupShare">
+    </td>
+    <td>
+      <b>SetupShare</b> — реалізація складної серверної логіки, зв'язків та архітектури БД для каталогу ПК-сетапів на Django.
       <br>
       👉 <a href="https://github.com/Vladyslav147/MyProject_SetupShare"><b>Відкрити репозиторій</b></a>
     </td>
   </tr>
+
   <tr>
     <th colspan="2" align="left">📚 Тематичні списки GitHub</th>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/List-My_Projects-316192?style=for-the-badge&logo=github" alt="List">
+      <img src="https://img.shields.io/badge/List-My_Projects-2D333B?style=for-the-badge&logo=github" alt="List">
     </td>
     <td>
-      <b><a href="https://github.com/stars/Vladyslav147/lists/my-projects">My_Projects</a></b> — особисті пет-проєкти, архітектурні рішення та напрацювання по Django.
+      <b><a href="https://github.com/stars/Vladyslav147/lists/my-projects">My_Projects</a></b> — повна добірка моїх особистих пет-проєктів та архітектурних напрацювань.
     </td>
   </tr>
 </table>
+
 <br>
 <br>
 
