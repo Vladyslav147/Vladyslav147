@@ -26,9 +26,9 @@ Backend-розробник. Спеціалізуюся на створенні �
       <img src="https://img.shields.io/badge/ManaStack-🔥_Main-092E20?style=for-the-badge&logo=django" alt="ManaStack">
     </td>
     <td>
-      <b>ManaStack</b> — геймерська платформа для обміну конфігураціями, гайдами та сетапами. 
+      <b>ManaStack</b> — платформа для обміну конфігураціями, гайдами та сетапами. 
       <br>
-      <i>Стек: Django REST Framework, PostgreSQL, Redis (кешування), Celery (фонові завдання), Docker.</i>
+      <i>Стек: Django REST Framework, PostgreSQL, Redis (кешування), Celery (фонові завдання), Docker, i так далi </i>
       <br>
       👉 <b>Репозиторій в активній розробці</b>
     </td>
